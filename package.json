@@ -1,0 +1,46 @@
+{
+	"name": "bootstrap.dev",
+	"version": "1.0.0",
+	"description": "my personal Bootstrap-Gulp Version",
+	"main": "gulpfile.js",
+	"devDependencies": {
+	"browser-sync": "^2.13.0",
+	"bs-html-injector": "^3.0.2",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.5",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-changed": "^1.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-modernizr": "0.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "css-mqpacker": "^5.0.1",
+    "cssnano": "^3.6.2",
+    "cssnext": "^1.8.4",
+    "graceful-fs": "^4.1.4",
+    "imagemin-pngquant": "^5.0.0",
+    "jshint": "^2.9.2",
+    "lodash": "^4.13.1",
+    "postcss-cssnext": "^2.5.2",
+    "postcss-import": "^8.1.2",
+    "postcss-will-change": "^1.1.0",
+    "precss": "^1.4.0"
+	},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1 "
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/indisc/bootstrap.dev.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {}
+}
